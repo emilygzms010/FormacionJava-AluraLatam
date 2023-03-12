@@ -1,0 +1,25 @@
+package java_primeros_pasos;
+
+public class TipoVariable {
+
+	public static void main(String[] args) {
+		System.out.println("Holap");
+		
+		// TIPO INT 
+		
+		int edad = 23;
+		
+		System.out.println(edad);
+		
+		edad = 23 + 0;
+		
+		System.out.println("Mi edad es " + edad);
+		
+		// TIPO DOUBLE
+		
+		double salario = 1050.90;
+		
+		System.out.println("Mi salario es " + salario);
+		
+	}
+}

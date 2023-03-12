@@ -1,0 +1,16 @@
+package java_primeros_pasos;
+
+public class TipoVariable {
+
+	public static void main(String[] args) {
+		System.out.println("Holap");
+		
+		int edad = 23;
+		
+		System.out.println(edad);
+		
+		edad = 23 + 88;
+		
+		System.out.println("Mi edad es" + edad);
+	}
+}
